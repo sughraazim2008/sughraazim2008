@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a Computer Science Student at Queen Mary University of London<br>🤖 I'm passionate about machine learning engineering and quantum physics.<br>
+💻 I'm an incoming Computational Physics Student at the University of Edinburgh<br>🤖 I'm passionate about machine learning engineering and quantum physics.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sughraazim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sughra-azim/?locale=en) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32509631/sughra-azim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sughrazim06@gmail.com) 
